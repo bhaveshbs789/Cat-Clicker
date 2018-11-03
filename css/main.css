@@ -1,7 +1,17 @@
 #container {
-	margin: 50px 200px;
+	margin: auto;
 }
 
 .hide {
 	display: none;
+}
+
+#image {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+div#image div {
+	padding: 20px;
+	margin: 10px;
 }
